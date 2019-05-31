@@ -1,0 +1,2 @@
+gcc anmodheinz00.c -lm -o anmodheinz00
+anmodheinz00
